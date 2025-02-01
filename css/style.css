@@ -344,7 +344,7 @@ footer ul li:not(:first-child)::before {
         width: 100%;
     }
     .img-right{
-        width: 50%;
+        width: 100%;
     }
     /* 年間行事 */
 .box {
